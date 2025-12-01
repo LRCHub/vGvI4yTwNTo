@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "NEON TOKYO",
+  "base_artist": "FUJIBASE",
+  "createdAt": "2025-12-01T03:53:19.040111Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Neon Tokyo",
+      "artist": "The Enigma TNG",
+      "has_synced": false,
+      "path": "select/01_Neon_Tokyo_The_Enigma_TNG.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Neon Tokyo",
+      "artist": "Enigma TNG, The",
+      "has_synced": false,
+      "path": "select/02_Neon_Tokyo_Enigma_TNG,_The.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Neon Tokyo (feat. RONEN & sectioneight)",
+      "artist": "Baby Gos",
+      "has_synced": true,
+      "path": "select/03_Neon_Tokyo_(feat._RONEN_&_sectioneight)_Baby_Gos.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Neon tokyo",
+      "artist": "Enigma TNG",
+      "has_synced": false,
+      "path": "select/04_Neon_tokyo_Enigma_TNG.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NEON TOKYO",
+      "artist": "FUJIBASE",
+      "has_synced": false,
+      "path": "select/05_NEON_TOKYO_FUJIBASE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Neon Tokyo",
+      "artist": "TAD",
+      "has_synced": false,
+      "path": "select/pl_01_Neon_Tokyo_TAD.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Neon Tokyo",
+      "artist": "TAD",
+      "has_synced": false,
+      "path": "select/pl_02_Neon_Tokyo_TAD.txt"
+    }
+  ]
+}
